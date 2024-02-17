@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Notas</string>
+    <string name="action_update">Guardar</string>
+    <string name="action_delete">Borrar</string>
+</resources>
